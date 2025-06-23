@@ -3,7 +3,7 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt  
 from datetime import datetime, timedelta  
   
-# 准备数据  
+# 准备数据  此部分尚未完善，需手动贴入相关数据
 dates = [  
 
 ]  
